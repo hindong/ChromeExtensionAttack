@@ -1,1 +1,1 @@
-### chrome extension example
+#### This code is for educational purposes only
